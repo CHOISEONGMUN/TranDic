@@ -1,0 +1,2 @@
+# TranDic
+Parsed wordreference Data, 
